@@ -37,7 +37,7 @@ class GreetCard extends StatelessWidget {
                   'Happy Birthday',
                   style: TextStyle(
                       color: Color.fromARGB(238, 55, 119, 154),
-                      fontSize: 32,
+                      fontSize: 31,
                       fontFamily: 'GreatVibes',
                       fontWeight: FontWeight.w600),
                 ),
