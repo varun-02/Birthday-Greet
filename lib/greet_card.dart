@@ -33,6 +33,7 @@ class GreetCard extends StatelessWidget {
           Center(
             child: Column(
               children: [
+                const SizedBox(height: 30),
                 const Text(
                   'Happy Birthday',
                   style: TextStyle(
